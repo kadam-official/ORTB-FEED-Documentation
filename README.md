@@ -32,7 +32,6 @@
 |||id|Unique ID of the application owner|||
 |||name|Publisher name|||
 ||ext|Additional application parameters|||
-| :- | :- | :- | :- | :- |
 |user|Details about the human user of the device||Yes|
 ||ext|Additional user parameters|||
 |||consent|The web-safe base64-encoded IAB Transparency and Consent Framework (TCF) v2 consent string fetched from the publisher's IAB Consent Management Platform (CMP). The structure of the string is defined by the IAB TCF v2|This field will be populated if the publisher has integrated with a CMP for TCF v2 and that CMP indicates that GDPR applies to this ad request and provides a valid consent string||
@@ -60,7 +59,6 @@
 ||carrier|Carrier or ISP|||
 ||js|Support for JavaScript, where 0 - no, 1 - yes|||
 ||language|Main browser language, ISO 3166-1 alpha-2 coding|To define the browser language. Examples: &language=ru-RU or &language=ru. If the parameter "language" is not filled in, filled in incorrectly or not passed, it is considered "undefined", it reduces the buyout||
-| :- | :- | :- | :- | :- |
 ||connectiontype|Network connection type|||
 ||ext|Additional user device parameters|||
 
