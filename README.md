@@ -175,7 +175,7 @@
 
 `    `"lmt": 1,
 
-`    `"ip": "55.555.555.555",
+`    `"ip": "127.1.0.0",
 
 `    `"devicetype": 4,
 
@@ -373,7 +373,7 @@
 
 `    `},
 
-`    `"ip": "55.555.55.55",
+`    `"ip": "127.1.0.0",
 
 `    `"js": 1,
 
@@ -730,7 +730,7 @@
 
 `  `"device": {
 
-`    `"ip": "55.555.555.55",
+`    `"ip": "127.1.0.0",
 
 `    `"ua": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-A105FN) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.2 Chrome/87.0.4280.141 Mobile Safari/537.36",
 
