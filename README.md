@@ -67,7 +67,7 @@
 ```sh
 {
 
-`  `"id": "b2b765f061f361a7",
+`  `"id": "b5b555f555f555a5",
 
 `  `"imp": [
 
@@ -125,15 +125,15 @@
 
 `  `"app": {
 
-`    `"id": "208212064",
+`    `"id": "5555555555",
 
-`    `"name": "iSound : Cloud Music Player",
+`    `"name": "Example",
 
-`    `"bundle": "1453331063",
+`    `"bundle": "5555555555",
 
-`    `"domain": "raw.githubusercontent.com",
+`    `"domain": "example.com",
 
-`    `"storeurl": "https://apps.apple.com/us/app/isound-cloud-music-player/id1453331063?uo=4",
+`    `"storeurl": "https://apps.apple.com/us/app/example/id5555555555?uo=4",
 
 `    `"cat": [
 
@@ -145,9 +145,9 @@
 
 `    `"publisher": {
 
-`      `"id": "102046074",
+`      `"id": "555555555",
 
-`      `"name": "Busra Yildiz"
+`      `"name": "Ivanov Ivan"
 
 `    `}
 
@@ -175,7 +175,7 @@
 
 `    `"lmt": 1,
 
-`    `"ip": "37.201.146.143",
+`    `"ip": "55.555.555.555",
 
 `    `"devicetype": 4,
 
@@ -191,7 +191,7 @@
 
 `    `"language": "en",
 
-`    `"carrier": "Vodafone Germany Cable",
+`    `"carrier": "VOHJKOOJ",
 
 `    `"connectiontype": 2
 
@@ -239,7 +239,7 @@
 
 `  `"cur": "USD",
 
-`  `"id": "th8qj7l3tp5sbjg99t7",
+`  `"id": "th5qj555tp5sbjg55t5",
 
 `  `"seatbid": [
 
@@ -249,23 +249,23 @@
 
 `        `{
 
-`          `"id": "1",
+`          `"id": "5",
 
-`          `"adid": "TPL35\_AD4921726",
+`          `"adid": "TPL55\_AD5555555",
 
-`          `"crid": "TPL35\_AD4921726",
+`          `"crid": "TPL55\_AD5555555",
 
-`          `"cid": "509290",
+`          `"cid": "555555",
 
-`          `"impid": "1",
+`          `"impid": "5",
 
 `          `"price": 0.014145912714302543,
 
-`          `"lurl": "https://s.viicoat.com/lurl/830/nnbqypdkjerv4xtfhm5viiy2hy2qc4a5avceq72ymjewgyaokho72rlp6dy55d5ivxd3nfrtm3huswkufdvfiycibgaptd4ir7l7vneyheq77i4mzbgrdueixdjtgmpngpoe4kljv3fpqubainmdevspjnqva6auci4qd3jtezcteykqpbkfeofzk2zfotwdmbnoqvpzvba5sm54yvknsuocl6jdtn63tzkiesqys43g5bzzqwd7w2mxjlffnhkvki4esko2k5n3wycjqvksx7yhko7vi7kayjwnavlnrbegvcsxigbwau5ikvooashq5k2irmu6v6d2wu6yjdyovneiwkpk7b5lkpieq2gak5gb4mqu6flcgbkdx2isnktuznjhwaibpt4wxex4y2hztl4hvowttc3lffpu6s3bkb4fiutybbldraimyom5yryfki4es2jsk27xjkksdwdfaoernmz3mtmczguzwuv2hjbzsmcxyvegs2kjmiyfykypkthey2gbkp6fl6r3jlmtc47xjccniweukhtm2spckwf3h65gpoevcmu6jihkmtgvrtup6u6qhrhw2q77sbfgfqd43bikatlisjjntwv3257pyvrz7fwytrwbxsw2nqkw5i6otq53sk33jhvpq5kq====?1=1&data[]=16267695581629189819560392&v[]=1326260065&cur=${AUCTION\_CURRENCY}&bid=${AUCTION\_PRICE}&total=1.051696270431351&loss=${AUCTION\_LOSS}",
+`          `"lurl": "https://example.com/lurl/555/nnbqypdkjerv4xtfhm5viiy2hy2qc4a5avceq72ymjewgyaokho72rlp6dy55d5ivxd3nfrtm3huswkufdvfiycibgaptd4ir7l7vneyheq77i4mzbgrdueixdjtgmpngpoe4kljv3fpqubainmdevspjnqva6auci4qd3jtezcteykqpbkfeofzk2zfotwdmbnoqvpzvba5sm54yvknsuocl6jdtn63tzkiesqys43g5bzzqwd7w2mxjlffnhkvki4esko2k5n3wycjqvksx7yhko7vi7kayjwnavlnrbegvcsxigbwau5ikvooashq5k2irmu6v6d2wu6yjdyovneiwkpk7b5lkpieq2gak5gb4mqu6flcgbkdx2isnktuznjhwaibpt4wxex4y2hztl4hvowttc3lffpu6s3bkb4fiutybbldraimyom5yryfki4es2jsk27xjkksdwdfaoernmz3mtmczguzwuv2hjbzsmcxyvegs2kjmiyfykypkthey2gbkp6fl6r3jlmtc47xjccniweukhtm2spckwf3h65gpoevcmu6jihkmtgvrtup6u6qhrhw2q77sbfgfqd43bikatlisjjntwv3257pyvrz7fwytrwbxsw2nqkw5i6otq53sk33jhvpq5kq====?1=1&data[]=16267695581629189819560392&v[]=1326260065&cur=${AUCTION\_CURRENCY}&bid=${AUCTION\_PRICE}&total=1.051696270431351&loss=${AUCTION\_LOSS}",
 
 `          `"adomain": [
 
-`            `"oleg-maltsev.ru"
+`            `"example.ru"
 
 `          `],
 
@@ -275,7 +275,7 @@
 
 `          `],
 
-`          `"adm": "<div id=\"EpLvPrThwzjHXYMe\"><a href=\"https://s.viicoat.com/h/nodxsxhg65nhtcogyg6j3l4hvowts2osulmlrb4x5f5hyuyizfvquuqpoquvgkgcyprm4322gpluvx2w2bk2xpkb3ez6nwcj3fi7rvgsxd465ufhqffksulwrrjtxklihs7e5uvzwk723lohw2ldhjso2k43fp5nvxd3nfrt2zg6xs6zxswk3r5wsyz4mtkkyfjhf7sqhintzasulpzwgunvkzjdr2jj2jkfni3dooefmuoajnglevnkz5a5q64k2ymos2xwv3k32yx5pnpikg3vvey4rixt4zl2uv2uhq4mb3kxjsjwfxvczwcddklkxzkkosdaub5vlur4374orukj3nsvc2qnlldpxrjqi2s4c7sipf2fq6cihe4a4rjl3nnrbuctsbemfis675fjrvlqxrjzhwlbwjke5q3dv3fpquefjmipkgdvrzrzzfu5nxyexqruqngtfjq6ikyvacsczihkmtmp4pfkbcuf2comsm2mprawwpqqnuqfg6yflrqsow6t764jppf7zoe7qv3hzoi3z6k7aly6degrkal4xy74fi2nhgvfqxektmfutzivuus2xreftnsxm5evdrxjr3kt4432hjlvpyhrlbmk3vzqobutevspjnqvboa=?u=https%3A%2F%2Foleg-maltsev.ru%2F%3Futm\_source%3Dkad\_tizer%26utm\_campaign%3D509290%26utm\_medium%3D1380663657990203%26utm\_content%3D4921726\" trackerlink=\"https://s.viicoat.com/c/nodxsxhg65nhtcogyg6j3l4hvowts2osulmlrb4x5f5hyuyizfvquuqpoquvgkgcyprm4322gpluvx2w2bk2xpkb3ez6nwcj3fi7rvgsxd465ufhqffksulwrrjtxklihs7e5uvzwk723lohw2ldhjso2k43fp5nvxd3nfrt2zg6xs6zxswk3r5wsyz4mtkkyfjhf7sqhintzasulpzwgunvkzjdr2jj2jkfni3dooefmuoajnglevnkz5a5q64k2ymos2xwv3k32yx5pnpikg3vvey4rixt4zl2uv2uhq4mb3kxjsjwfxvczwcddklkxzkkosdaub5vlur4374orukj3nsvc2qnlldpxrjqi2s4c7sipf2fq6cihe4a4rjl3nnrbuctsbemfis675fjrvlqxrjzhwlbwjke5q3dv3fpquefjmipkgdvrzrzzfu5nxyexqruqngtfjq6ikyvacsczihkmtmp4pfkbcuf2comsm2mprawwpqqnuqfg6yflrqsow6t764jppf7zoe7qv3hzoi3z6k7aly6degrkal4xy74fi2nhgvfqxektmfutzivuus2xreftnsxm5evdrxjr3kt4432hjlvpyhrlbmk3vzqobutevspjnqvboa=?u=https%3A%2F%2Foleg-maltsev.ru%2F%3Futm\_source%3Dkad\_tizer%26utm\_campaign%3D509290%26utm\_medium%3D1380663657990203%26utm\_content%3D4921726\" data-set=\"href\" target=\"\_blank\" class=\"k-bloc wzuRrdoPaKupOzsD\"><div class=\"k-bloc\_\_age\">12+</div><div class=\"k-bloc\_\_img\" style=\"background-image: url('https://i.cdnkimg.com/auto/300x194/image/tesr/1726/726/rect\_60e3140b614cat1625494539r8069.jpg');\"></div><div class=\"k-bloc\_\_btnwrap\"><div class=\"k-bloc\_\_btn\"><div>Выведи компанию на новый уровень! Комплексный пиар Олега Мальцева</div><div class=\"k-bloc\_\_domain\">oleg-maltsev.ru</div><div class=\"k-bloc\_\_disclaimer\"></div></div><div class=\"k-bloc\_\_arrow\"><svg width=\"30\" height=\"18\" viewBox=\"0 0 30 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 9L27 9\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M22.5 4.5L27 9L22.5 13.5\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></div></div></a></div><style>#EpLvPrThwzjHXYMe \* {box-sizing: border-box;font-family: Arial, sans-serif}#EpLvPrThwzjHXYMe .k-bloc {position: relative;width: 300px;height: 250px;display: block;background-color: #fff}#EpLvPrThwzjHXYMe .k-bloc:hover .k-bloc\_\_btnwrap {bottom: 32px}#EpLvPrThwzjHXYMe .k-bloc\_\_img {height: 194px;width: 300px;background-position: center;background-repeat: no-repeat;background-size: cover;overflow: hidden;}#EpLvPrThwzjHXYMe .k-bloc\_\_text {font-weight: 400;position: absolute;bottom: 5px;left: 18px;max-width: 265px;font-size: 8px;line-height: 9px;color: #b4b4b4;height: 18px;overflow: hidden}#EpLvPrThwzjHXYMe .k-bloc\_\_btnwrap {position: absolute;bottom: 27px;left: 8px;display: flex;justify-content: space-between;align-items: flex-end;width: 284px;box-sizing: border-box;text-decoration: none;transition: all .2s;background-color: #4f4f4f;box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);border-radius: 5px;padding: 12px 8px 12px 12px}#EpLvPrThwzjHXYMe .k-bloc\_\_btn {width: 220px;font-size: 14px;line-height: 16px;color: #fff;font-weight: 700;margin-right: 4px;box-sizing: border-box;transition: all .2s}#EpLvPrThwzjHXYMe .k-bloc\_\_arrow {margin-bottom: -4px;width: 30px;height: 18px;display: flex;justify-content: center;align-items: center;box-sizing: border-box;transition: all .2s}#EpLvPrThwzjHXYMe .k-bloc\_\_arrow svg {width: 100%;height: 100%}#EpLvPrThwzjHXYMe .k-bloc\_\_domain {font-size: 12px;line-height: 14px;color: #69c0ff;margin-top: 8px;margin-bottom: 3px;}#EpLvPrThwzjHXYMe .k-bloc\_\_age {width: 24px;height: 24px;left: 8px;top: 8px;position: absolute;display: flex;justify-content: center;align-items: center;font-weight: bold;font-size: 10px;line-height: 12px;color: gray;background-color: #fcfcfc;opacity: .75;border-radius: 2px}#EpLvPrThwzjHXYMe .k-bloc\_\_disclaimer {font-size: 7px;line-height: 8px;color: #B4B4B4;}</style>"
+`          `"adm": "<div id=\"EpLvPrThwzjHXYMe\"><a href=\"https://example.com/h/nodxsxhg65nhtcogyg6j3l4hvowts2osulmlrb4x5f5hyuyizfvquuqpoquvgkgcyprm4322gpluvx2w2bk2xpkb3ez6nwcj3fi7rvgsxd465ufhqffksulwrrjtxklihs7e5uvzwk723lohw2ldhjso2k43fp5nvxd3nfrt2zg6xs6zxswk3r5wsyz4mtkkyfjhf7sqhintzasulpzwgunvkzjdr2jj2jkfni3dooefmuoajnglevnkz5a5q64k2ymos2xwv3k32yx5pnpikg3vvey4rixt4zl2uv2uhq4mb3kxjsjwfxvczwcddklkxzkkosdaub5vlur4374orukj3nsvc2qnlldpxrjqi2s4c7sipf2fq6cihe4a4rjl3nnrbuctsbemfis675fjrvlqxrjzhwlbwjke5q3dv3fpquefjmipkgdvrzrzzfu5nxyexqruqngtfjq6ikyvacsczihkmtmp4pfkbcuf2comsm2mprawwpqqnuqfg6yflrqsow6t764jppf7zoe7qv3hzoi3z6k7aly6degrkal4xy74fi2nhgvfqxektmfutzivuus2xreftnsxm5evdrxjr3kt4432hjlvpyhrlbmk3vzqobutevspjnqvboa=?u=https%3A%2F%2Fexample.ru%2F%3Futm\_source%3Dkad\_tizer%26utm\_campaign%3D509290%26utm\_medium%3D1380663657990203%26utm\_content%3D4921726\" trackerlink=\"https://example.com/c/nodxsxhg65nhtcogyg6j3l4hvowts2osulmlrb4x5f5hyuyizfvquuqpoquvgkgcyprm4322gpluvx2w2bk2xpkb3ez6nwcj3fi7rvgsxd465ufhqffksulwrrjtxklihs7e5uvzwk723lohw2ldhjso2k43fp5nvxd3nfrt2zg6xs6zxswk3r5wsyz4mtkkyfjhf7sqhintzasulpzwgunvkzjdr2jj2jkfni3dooefmuoajnglevnkz5a5q64k2ymos2xwv3k32yx5pnpikg3vvey4rixt4zl2uv2uhq4mb3kxjsjwfxvczwcddklkxzkkosdaub5vlur4374orukj3nsvc2qnlldpxrjqi2s4c7sipf2fq6cihe4a4rjl3nnrbuctsbemfis675fjrvlqxrjzhwlbwjke5q3dv3fpquefjmipkgdvrzrzzfu5nxyexqruqngtfjq6ikyvacsczihkmtmp4pfkbcuf2comsm2mprawwpqqnuqfg6yflrqsow6t764jppf7zoe7qv3hzoi3z6k7aly6degrkal4xy74fi2nhgvfqxektmfutzivuus2xreftnsxm5evdrxjr3kt4432hjlvpyhrlbmk3vzqobutevspjnqvboa=?u=https%3A%2F%2Fexample.ru%2F%3Futm\_source%3Dkad\_tizer%26utm\_campaign%3D509290%26utm\_medium%3D1380663657990203%26utm\_content%3D4921726\" data-set=\"href\" target=\"\_blank\" class=\"k-bloc wzuRrdoPaKupOzsD\"><div class=\"k-bloc\_\_age\">12+</div><div class=\"k-bloc\_\_img\" style=\"background-image: url('https://example.com/auto/300x194/image/tesr/1726/726/rect\_60e3140b614cat1625455555r8069.jpg');\"></div><div class=\"k-bloc\_\_btnwrap\"><div class=\"k-bloc\_\_btn\"><div>Такого вы еще не видели! Самые милые котята</div><div class=\"k-bloc\_\_domain\">example.ru</div><div class=\"k-bloc\_\_disclaimer\"></div></div><div class=\"k-bloc\_\_arrow\"><svg width=\"30\" height=\"18\" viewBox=\"0 0 30 18\" fill=\"none\" xmlns=\"http://www.example.org/2000/svg\"><path d=\"M3 9L27 9\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M22.5 4.5L27 9L22.5 13.5\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></div></div></a></div><style>#EpLvPrThwzjHXYMe \* {box-sizing: border-box;font-family: Arial, sans-serif}#EpLvPrThwzjHXYMe .k-bloc {position: relative;width: 300px;height: 250px;display: block;background-color: #fff}#EpLvPrThwzjHXYMe .k-bloc:hover .k-bloc\_\_btnwrap {bottom: 32px}#EpLvPrThwzjHXYMe .k-bloc\_\_img {height: 194px;width: 300px;background-position: center;background-repeat: no-repeat;background-size: cover;overflow: hidden;}#EpLvPrThwzjHXYMe .k-bloc\_\_text {font-weight: 400;position: absolute;bottom: 5px;left: 18px;max-width: 265px;font-size: 8px;line-height: 9px;color: #b4b4b4;height: 18px;overflow: hidden}#EpLvPrThwzjHXYMe .k-bloc\_\_btnwrap {position: absolute;bottom: 27px;left: 8px;display: flex;justify-content: space-between;align-items: flex-end;width: 284px;box-sizing: border-box;text-decoration: none;transition: all .2s;background-color: #4f4f4f;box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);border-radius: 5px;padding: 12px 8px 12px 12px}#EpLvPrThwzjHXYMe .k-bloc\_\_btn {width: 220px;font-size: 14px;line-height: 16px;color: #fff;font-weight: 700;margin-right: 4px;box-sizing: border-box;transition: all .2s}#EpLvPrThwzjHXYMe .k-bloc\_\_arrow {margin-bottom: -4px;width: 30px;height: 18px;display: flex;justify-content: center;align-items: center;box-sizing: border-box;transition: all .2s}#EpLvPrThwzjHXYMe .k-bloc\_\_arrow svg {width: 100%;height: 100%}#EpLvPrThwzjHXYMe .k-bloc\_\_domain {font-size: 12px;line-height: 14px;color: #69c0ff;margin-top: 8px;margin-bottom: 3px;}#EpLvPrThwzjHXYMe .k-bloc\_\_age {width: 24px;height: 24px;left: 8px;top: 8px;position: absolute;display: flex;justify-content: center;align-items: center;font-weight: bold;font-size: 10px;line-height: 12px;color: gray;background-color: #fcfcfc;opacity: .75;border-radius: 2px}#EpLvPrThwzjHXYMe .k-bloc\_\_disclaimer {font-size: 7px;line-height: 8px;color: #B4B4B4;}</style>"
 
 `        `}
 
@@ -373,7 +373,7 @@
 
 `    `},
 
-`    `"ip": "46.211.72.11",
+`    `"ip": "55.555.55.55",
 
 `    `"js": 1,
 
@@ -383,19 +383,19 @@
 
 `  `},
 
-`  `"id": "e646e381-6bb1-47f5-88ce-112faf746235",
+`  `"id": "e555e555-5bb5-55f5-55ce-555faf555555",
 
 `  `"imp": [
 
 `    `{
 
-`      `"tagid": "5803",
+`      `"tagid": "5555",
 
 `      `"bidfloor": 0.01,
 
 `      `"bidfloorcur": "USD",
 
-`      `"id": "fec7a9a871",
+`      `"id": "fec5a5a555",
 
 `      `"native": {
 
@@ -425,13 +425,13 @@
 
 `    `],
 
-`    `"domain": "www.unian.ua",
+`    `"domain": "www.example.ua",
 
-`    `"id": "1553",
+`    `"id": "5555",
 
-`    `"name": "www.unian.ua",
+`    `"name": "www.example.ua",
 
-`    `"page": "https://www.unian.ua/",
+`    `"page": "https://www.example.ua/",
 
 `    `"Content": {}
 
@@ -441,7 +441,7 @@
 
 `  `"user": {
 
-`    `"id": "6f1ab8ca-0487-44a5-808f-d2f4f0c84047"
+`    `"id": "5f5ab5ca-5555-55a5-555f-d5f5f5c55555"
 
 `  `},
 
@@ -521,7 +521,7 @@
 
 `  `"cur": "USD",
 
-`  `"id": "69fe4946-eb8a-4d80-92ed-a078e6d128a4",
+`  `"id": "55fe5555-eb5a-5d55-55ed-a555e5d555a5",
 
 `  `"seatbid": [
 
@@ -533,23 +533,23 @@
 
 `          `"id": "1",
 
-`          `"adid": "4904435",
+`          `"adid": "5555555",
 
-`          `"crid": "4904435",
+`          `"crid": "5555555",
 
-`          `"cid": "436414",
+`          `"cid": "5555555",
 
-`          `"impid": "e96a25ea74",
+`          `"impid": "e55a55ea55",
 
 `          `"price": 0.010579906888306142,
 
-`          `"nurl": "https://s.viicoat.com/nurl/799/nn2e43julv6vabtamixag2azpftfy4kzd5xx2lqfpumwiziafrpvmz35omagi2stmyaxsxigmv5fhpu6nn2lzg5bzqzx5g7ov2ph6zgshjyw2ywjjejwemej4ho4dovo5wakgsqjqtxi5vj6hhuzfm53jym7g4o6kntedguz7vgvg23bpbkff6efuxbgsd2kfevaqxrlhbewsmswj65v5udzkxndsq7zgpu6storkhdikseajditvfsoxdfpw6uzkpjr57aiqnho2q6ji6gfhw2nrqztakonl24hsxvphhqictdmyjerhb2pnd5ds5wzgnk7ostpsb4vlgrzjc4tgwexjk7olnm2v7d3nfwnk6xuvpxfwwnk7r5ws3gvpj2kmcrhsvyhnmg6ambhoja3n4yiwfwzes3km4cqx63dsdz4zkoaw2lm3kkorfruw4kuki4itjp6uzyau2uh3ncltewmkzrvmt2lmfihrjdn6bfqzycuj6jwgumyk2qphu5rgg7e2surkj454ujqfvpaknlzfjkgjwcxfcieu2uckvvjwyvozxmiip4uni4ic3dxsfj7pdwd2jg6wnsrjprl4uiikni2qtocgdhewswbkswmfcf7j7atmv77j6h7hehrupj7a24kkkh4b6nlqcv23r5wna======?1=1&data[]=16267702601928352117733179&v[]=499249867&cur=${AUCTION\_CURRENCY}&bid=${AUCTION\_PRICE}",
+`          `"nurl": "https://example.com/nurl/555/nn2e43julv6vabtamixag2azpftfy4kzd5xx2lqfpumwiziafrpvmz35omagi2stmyaxsxigmv5fhpu6nn2lzg5bzqzx5g7ov2ph6zgshjyw2ywjjejwemej4ho4dovo5wakgsqjqtxi5vj6hhuzfm53jym7g4o6kntedguz7vgvg23bpbkff6efuxbgsd2kfevaqxrlhbewsmswj65v5udzkxndsq7zgpu6storkhdikseajditvfsoxdfpw6uzkpjr57aiqnho2q6ji6gfhw2nrqztakonl24hsxvphhqictdmyjerhb2pnd5ds5wzgnk7ostpsb4vlgrzjc4tgwexjk7olnm2v7d3nfwnk6xuvpxfwwnk7r5ws3gvpj2kmcrhsvyhnmg6ambhoja3n4yiwfwzes3km4cqx63dsdz4zkoaw2lm3kkorfruw4kuki4itjp6uzyau2uh3ncltewmkzrvmt2lmfihrjdn6bfqzycuj6jwgumyk2qphu5rgg7e2surkj454ujqfvpaknlzfjkgjwcxfcieu2uckvvjwyvozxmiip4uni4ic3dxsfj7pdwd2jg6wnsrjprl4uiikni2qtocgdhewswbkswmfcf7j7atmv77j6h7hehrupj7a24kkkh4b6nlqcv23r5wna======?1=1&data[]=16267702601928352117733179&v[]=499249867&cur=${AUCTION\_CURRENCY}&bid=${AUCTION\_PRICE}",
 
-`          `"lurl": "https://s.viicoat.com/lurl/799/nn2e43julv6vabtamixag2azpftfy4kzd5xx2lqfpumwiziafrpvmz35omagi2stmyaxsxigmv5fhpu6nn2lzg5bzqzx5g7ov2ph6zgshjyw2ywjjejwemej4ho4dovo5wakgsqjqtxi5vj6hhuzfm53jym7g4o6kntedguz7vgvg23bpbkff6efuxbgsd2kfevaqxrlhbewsmswj65v5udzkxndsq7zgpu6storkhdikseajditvfsoxdfpw6uzkpjr57aiqnho2q6ji6gfhw2nrqztakonl24hsxvphhqictdmyjerhb2pnd5ds5wzgnk7ostpsb4vlgrzjc4tgwexjk7olnm2v7d3nfwnk6xuvpxfwwnk7r5ws3gvpj2kmcrhsvyhnmg6ambhoja3n4yiwfwzes3km4cqx63dsdz4zkoaw2lm3kkorfruw4kuki4itjp6uzyau2uh3ncltewmkzrvmt2lmfihrjdn6bfqzycuj6jwgumyk2qphu5rgg7e2surkj454ujqfvpaknlzfjkgjwcxfcieu2uckvvjwyvozxmiip4uni4ic3dxsfj7pdwd2jg6wnsrjprl4uiikni2qtocgdhewswbkswmfcf7j7atmv77j6h7hehrupj7a24kkkh4b6nlqcv23r5wna======?1=1&data[]=16267702601928352117733179&v[]=499249867&cur=${AUCTION\_CURRENCY}&bid=${AUCTION\_PRICE}&loss=${AUCTION\_LOSS}",
+`          `"lurl": "https://example.com/lurl/555/nn2e43julv6vabtamixag2azpftfy4kzd5xx2lqfpumwiziafrpvmz35omagi2stmyaxsxigmv5fhpu6nn2lzg5bzqzx5g7ov2ph6zgshjyw2ywjjejwemej4ho4dovo5wakgsqjqtxi5vj6hhuzfm53jym7g4o6kntedguz7vgvg23bpbkff6efuxbgsd2kfevaqxrlhbewsmswj65v5udzkxndsq7zgpu6storkhdikseajditvfsoxdfpw6uzkpjr57aiqnho2q6ji6gfhw2nrqztakonl24hsxvphhqictdmyjerhb2pnd5ds5wzgnk7ostpsb4vlgrzjc4tgwexjk7olnm2v7d3nfwnk6xuvpxfwwnk7r5ws3gvpj2kmcrhsvyhnmg6ambhoja3n4yiwfwzes3km4cqx63dsdz4zkoaw2lm3kkorfruw4kuki4itjp6uzyau2uh3ncltewmkzrvmt2lmfihrjdn6bfqzycuj6jwgumyk2qphu5rgg7e2surkj454ujqfvpaknlzfjkgjwcxfcieu2uckvvjwyvozxmiip4uni4ic3dxsfj7pdwd2jg6wnsrjprl4uiikni2qtocgdhewswbkswmfcf7j7atmv77j6h7hehrupj7a24kkkh4b6nlqcv23r5wna======?1=1&data[]=16267702601928352117733179&v[]=499249867&cur=${AUCTION\_CURRENCY}&bid=${AUCTION\_PRICE}&loss=${AUCTION\_LOSS}",
 
 `          `"adomain": [
 
-`            `"news-fancy.com"
+`            `"example.com"
 
 `          `],
 
@@ -559,7 +559,7 @@
 
 `          `],
 
-`          `"adm": "{\"native\":{\"ver\":\"1.1\",\"link\":{\"url\":\"https://s.viicoat.com/h/nonxsxen6znhtxhvu7xgasfm6go7mtsj3t22p3uqxpavm6r3phuta3slbnpbq6yeq2xjh3ruhyvngygpp36fhb6lmgbfpvg5mpuhtahx66dy5d6ssjp2sulwqrjtteligo3e4rmjkgt6dh7wwslm3knqjkivdj7bt73ljfwnvgyevyksxdp4vq5rs3g2tmck6fjht5cqhhrwwmadb35wgwwakzj7ks3jgj3a5o3dkoafm54yjklypwuzjtgfg4udoecis2v5rtpkczmcpnjvnemwnbbfctetmlti5chog6uwvgkuu5egbid3kxjdzhp75diutw3fkfvagwwl4lbdarxrtj5uq6lulb4eqojybzcsxwkycaxpuopwz42omtxu4nmjavpntzh6smcxy5ezf66tk3xtvir6u5wiusoholqwxgr2vjw6ovhgumpwvhkwedxx4vockt37jnu7zsd45hymon7vy23ykuzb23deaexuiabvfixuyzcjme2bkkc5ajswekacgffdkzibpboauzjjloiol55nuh7znp66k5t4xqnvrriqfsuc6pvfkf6l4p6cunhkz37kxtfjwc2j4uk2kfnjwqczjb7e265vy2rngvacljqtgtxq5vtxbr6wliaus2jss2bypepp?u=https%3A%2F%2Fnews-fancy.com%2F52995-u-nekotoryx-zhenshchin-nesprosta-shirokie-bedra-axnete.html%3Fsource%3D392%26id%3D4904435%26site\_id%3D1380295462490606%26mark3%3D321375%26tid%3D59198\"},\"assets\":[{\"id\":1,\"required\":1,\"title\":{\"text\":\"Что означают широкие бедра у женщин? То, чего мужчины не знают\"}},{\"id\":2,\"required\":1,\"img\":{\"w\":400,\"h\":400,\"url\":\"https://i.cdnkimg.com/auto/400/image/tesr/4435/435/60d4448055998t1624523904r3436.jpg\"}}]}}"
+`          `"adm": "{\"native\":{\"ver\":\"1.1\",\"link\":{\"url\":\"https://example.com/h/nonxsxen6znhtxhvu7xgasfm6go7mtsj3t22p3uqxpavm6r3phuta3slbnpbq6yeq2xjh3ruhyvngygpp36fhb6lmgbfpvg5mpuhtahx66dy5d6ssjp2sulwqrjtteligo3e4rmjkgt6dh7wwslm3knqjkivdj7bt73ljfwnvgyevyksxdp4vq5rs3g2tmck6fjht5cqhhrwwmadb35wgwwakzj7ks3jgj3a5o3dkoafm54yjklypwuzjtgfg4udoecis2v5rtpkczmcpnjvnemwnbbfctetmlti5chog6uwvgkuu5egbid3kxjdzhp75diutw3fkfvagwwl4lbdarxrtj5uq6lulb4eqojybzcsxwkycaxpuopwz42omtxu4nmjavpntzh6smcxy5ezf66tk3xtvir6u5wiusoholqwxgr2vjw6ovhgumpwvhkwedxx4vockt37jnu7zsd45hymon7vy23ykuzb23deaexuiabvfixuyzcjme2bkkc5ajswekacgffdkzibpboauzjjloiol55nuh7znp66k5t4xqnvrriqfsuc6pvfkf6l4p6cunhkz37kxtfjwc2j4uk2kfnjwqczjb7e265vy2rngvacljqtgtxq5vtxbr6wliaus2jss2bypepp?u=https%3A%2F%2Fexample.com%2F52995-takie-milie-kotyata.html%3Fsource%3D392%26id%3D4904435%26site\_id%3D1380295462490606%26mark3%3D321375%26tid%3D59198\"},\"assets\":[{\"id\":1,\"required\":1,\"title\":{\"text\":\"Таких милых котят вы еще не видели\"}},{\"id\":2,\"required\":1,\"img\":{\"w\":400,\"h\":400,\"url\":\"https://example.com/auto/400/image/tesr/4435/435/60d4448055998t1624523904r5555.jpg\"}}]}}"
 
 `        `}
 
@@ -642,13 +642,13 @@
 ```sh
 {
 
-`  `"id": "726d8755-d126-4319-a969-1e006454fda5",
+`  `"id": "555d8555-d555-5555-a555-5e555555fda5",
 
 `  `"imp": [
 
 `    `{
 
-`      `"id": "i726d8755-d126-4319-a969-1e006454fda5",
+`      `"id": "i555d5555-d555-5555-a555-5e555555fda5",
 
 `      `"video": {
 
@@ -708,9 +708,9 @@
 
 `  `"site": {
 
-`    `"id": "670",
+`    `"id": "555",
 
-`    `"domain": "serialytut.me",
+`    `"domain": "example.me",
 
 `    `"cat": [
 
@@ -718,11 +718,11 @@
 
 `    `],
 
-`    `"page": "https://gavanaplay.me/",
+`    `"page": "https://example.me/",
 
 `    `"publisher": {
 
-`      `"id": "694"
+`      `"id": "555"
 
 `    `}
 
@@ -730,7 +730,7 @@
 
 `  `"device": {
 
-`    `"ip": "95.125.117.20",
+`    `"ip": "55.555.555.55",
 
 `    `"ua": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-A105FN) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.2 Chrome/87.0.4280.141 Mobile Safari/537.36",
 
@@ -746,7 +746,7 @@
 
 `  `"user": {
 
-`    `"id": "a944913f-a3d1-44ab-837f-f97c785d237c"
+`    `"id": "a555555f-a5d5-55ab-555f-f55c555d555c"
 
 `  `},
 
@@ -770,7 +770,7 @@
 
 `  `"cur": "USD",
 
-`  `"id": "726d8755-d126-4319-a969-1e006454fda5",
+`  `"id": "555d5555-d555-5555-a555-5e555555fda5",
 
 `  `"seatbid": [
 
@@ -782,21 +782,21 @@
 
 `          `"id": "1",
 
-`          `"adid": "4924327",
+`          `"adid": "555555",
 
-`          `"crid": "4924327",
+`          `"crid": "555555",
 
-`          `"cid": "509220",
+`          `"cid": "555555",
 
-`          `"impid": "i726d8755-d126-4319-a969-1e006454fda5",
+`          `"impid": "i555d5555-d555-5555-a555-5e555555fda5",
 
 `          `"price": 0.6890557421065893,
 
 `          `"adomain": [
 
-`            `"brooffer.com",
+`            `"example.com",
 
-`            `"fortunatenews.com"
+`            `"example.com"
 
 `          `],
 
@@ -806,7 +806,7 @@
 
 `          `],
 
-`          `"adm": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><VAST version=\"3.0\"><Ad id=\"item\_0\"><InLine><AdSystem><![CDATA[KDM]]></AdSystem><AdTitle><![CDATA[Акции Tesla дают от 200% Регистрируйся и получай доход. Всему научим!]]></AdTitle><Impression><![CDATA[https://s.viicoat.com/nurl/491/nn2e6ztelryv4b3dmixvaysopftaw6cqd43xm7kypvetcyqip5oqoyrjf4agk2stmyaxwxibmr4fh7pwnn2ovxec4df2tmfutzivbahx66dw4asgo5vtdo33brhfrfnryp4j3nnt2ngdzx44slxdijwpugkkw7jmyuy4g2cql3uiztksmajhflckiazfmt3luikz42yshea5oor6ju5wwklykrjdqsljyju46sta3b4v5qrz2l4tvzso57vu7qcv3uzys2evshrutlcr7z3lebe4naawk7duxfi72x52hehzsm6cjs3gbvs2wrxlks26ryjxhy3an7efkupijbqouv7dt7hynbnlvxd3m2gsk7rz7t4gqwv23r5wndnfotvzmbjs2bywwffwsmswz5p47p2h7zidwhb2o3te3y6aw6zvfeb2mfedevspnorblhtlpo4etrus5bb22xtanrwem6ojngo7n4khq5xssvcshbewsmvgocbwgnnkkzjoas3i2jknj27c7kckxlohwzunuvcyxnrvd4sxliehsx2ugv6s4bhqppvfvecknsbfkx4lmkc5vsst4vfa6vdqoc5wfungskgdbs3ngehuythrktwfnsr4jdetnw7lsdtfnucqkoee3uowtxdifaxeplwfnehir34va===?1=1&data[]=16267883652405580382770346&v[]=4130701133&cur=${AUCTION\_CURRENCY}&bid=${AUCTION\_PRICE}]]></Impression><Creatives><Creative id=\"4924327\" AdID=\"4924327\"><Linear skipoffset=\"00:00:00\"><Duration>00:00:30</Duration><TrackingEvents></TrackingEvents><VideoClicks><ClickThrough><![CDATA[https://s.viicoat.com/h/noixsxgotznhtcvsqtbjrl4hvowtsun5s6myctcb5coj7w7rvlota7stpnywqwaunvyeuon76kkmyzzydxgfhu2kyezzns2d2fizxkctqbel3f4zqhgkn3hbyvj5qsda3jl6hh6pq2c2xlohwzumev7dt7hynbnlvxd3m2fsktt6vbu3p3cfaopjnms7ytkjeqb4qvquqbfwr72uj5f4ceeyk3ddxollg6xe2w7jkow7ntbz4rvfimdjosqvh6mksttedozrkuleqzuipppyjnnnndjflw2jrfjxtjcrhhew3p7sstggpqd4kvafqqoo6x5e2w6f3jtuyuyyb5a2mvipjiuvekc6bizctzrzh3yuhskr4pcfvccivg3f5j2k7lahbvcqhhawxfmr4ne7sutm5fil424jb2ju26csmndzyuf5ik6dbudnvno3k6td5z6xlgjq7pnmbugntw5leasteu4heltskvseczlblzsaqajspztfkzazgz7qa6s6kr5ss4swgnhwyz24pnnaknk7s642dvugvtvmuxi222s35gsvfdh7fo7dsxg2tmfumaeprvx6niuzt36r5zgugvtqynnqr53bdjkh7rwfrp7ve2bwifucvto7inazb7c4diwbs7i=?u=http%3A%2F%2Fbrooffer.com%2Fclick.php%3Fkey%3Dgmaej3st93w4pd4n89s5%26cost%3D0.0%26SID%3D1358019555422776%26ID%3D4924327%26CID%3D509220%26RID%3DES%26CATID%3D1175%26SUBAGE%3D0%26LANG%3Dru%26PLTFRM%3DANDROID]]></ClickThrough></VideoClicks><MediaFiles><MediaFile delivery=\"progressive\" type=\"video/mp4\" codec=\"0\" bitrate=\"992\" width=\"1280\" height=\"720\"><![CDATA[https://i.imgkcdn.com/video/video/4327/327/60e46a79c6d22t1625582201r8751.mp4]]></MediaFile></MediaFiles></Linear></Creative></Creatives></InLine></Ad></VAST>"
+`          `"adm": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><VAST version=\"3.0\"><Ad id=\"item\_0\"><InLine><AdSystem><![CDATA[KDM]]></AdSystem><AdTitle><![CDATA[Таких милых котят вы еще не видели!]]></AdTitle><Impression><![CDATA[https://example.com/nurl/555/nn2e6ztelryv4b3dmixvaysopftaw6cqd43xm7kypvetcyqip5oqoyrjf4agk2stmyaxwxibmr4fh7pwnn2ovxec4df2tmfutzivbahx66dw4asgo5vtdo33brhfrfnryp4j3nnt2ngdzx44slxdijwpugkkw7jmyuy4g2cql3uiztksmajhflckiazfmt3luikz42yshea5oor6ju5wwklykrjdqsljyju46sta3b4v5qrz2l4tvzso57vu7qcv3uzys2evshrutlcr7z3lebe4naawk7duxfi72x52hehzsm6cjs3gbvs2wrxlks26ryjxhy3an7efkupijbqouv7dt7hynbnlvxd3m2gsk7rz7t4gqwv23r5wndnfotvzmbjs2bywwffwsmswz5p47p2h7zidwhb2o3te3y6aw6zvfeb2mfedevspnorblhtlpo4etrus5bb22xtanrwem6ojngo7n4khq5xssvcshbewsmvgocbwgnnkkzjoas3i2jknj27c7kckxlohwzunuvcyxnrvd4sxliehsx2ugv6s4bhqppvfvecknsbfkx4lmkc5vsst4vfa6vdqoc5wfungskgdbs3ngehuythrktwfnsr4jdetnw7lsdtfnucqkoee3uowtxdifaxeplwfnehir34va===?1=1&data[]=16267883652405580382770346&v[]=4130701133&cur=${AUCTION\_CURRENCY}&bid=${AUCTION\_PRICE}]]></Impression><Creatives><Creative id=\"555555\" AdID=\"555555\"><Linear skipoffset=\"00:00:00\"><Duration>00:00:30</Duration><TrackingEvents></TrackingEvents><VideoClicks><ClickThrough><![CDATA[https://example.com/h/noixsxgotznhtcvsqtbjrl4hvowtsun5s6myctcb5coj7w7rvlota7stpnywqwaunvyeuon76kkmyzzydxgfhu2kyezzns2d2fizxkctqbel3f4zqhgkn3hbyvj5qsda3jl6hh6pq2c2xlohwzumev7dt7hynbnlvxd3m2fsktt6vbu3p3cfaopjnms7ytkjeqb4qvquqbfwr72uj5f4ceeyk3ddxollg6xe2w7jkow7ntbz4rvfimdjosqvh6mksttedozrkuleqzuipppyjnnnndjflw2jrfjxtjcrhhew3p7sstggpqd4kvafqqoo6x5e2w6f3jtuyuyyb5a2mvipjiuvekc6bizctzrzh3yuhskr4pcfvccivg3f5j2k7lahbvcqhhawxfmr4ne7sutm5fil424jb2ju26csmndzyuf5ik6dbudnvno3k6td5z6xlgjq7pnmbugntw5leasteu4heltskvseczlblzsaqajspztfkzazgz7qa6s6kr5ss4swgnhwyz24pnnaknk7s642dvugvtvmuxi222s35gsvfdh7fo7dsxg2tmfumaeprvx6niuzt36r5zgugvtqynnqr53bdjkh7rwfrp7ve2bwifucvto7inazb7c4diwbs7i=?u=http%3A%2F%2Fexample%2Fclick.php%3Fkey%3Dgmaej3st93w4pd4n89s5%26cost%3D0.0%26SID%3D1358019555422776%26ID%3D4924327%26CID%3D509220%26RID%3DES%26CATID%3D1175%26SUBAGE%3D0%26LANG%3Dru%26PLTFRM%3DANDROID]]></ClickThrough></VideoClicks><MediaFiles><MediaFile delivery=\"progressive\" type=\"video/mp4\" codec=\"0\" bitrate=\"992\" width=\"1280\" height=\"720\"><![CDATA[https://example.com/video/video/4327/327/60e46a79c6d22t1625582201r5555.mp4]]></MediaFile></MediaFiles></Linear></Creative></Creatives></InLine></Ad></VAST>"
 
 `        `}
 
